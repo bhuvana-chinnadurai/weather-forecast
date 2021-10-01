@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(inspect dist, Some(0b362a07-a69d-425f-8f70-ace1e881e915), Some(CommandSource(console0)))[0m
+[0m[[0m[0minfo[0m] [0m[0mTask: java.io.File[0m
+[0m[[0m[0minfo[0m] [0m[0mDescription:[0m
+[0m[[0m[0minfo[0m] [0m[0m	Creates the distribution packages.[0m
+[0m[[0m[0minfo[0m] [0m[0mProvided by:[0m
+[0m[[0m[0minfo[0m] [0m[0m	ProjectRef(uri("file:/Users/bhuvaneshwarichinnadurai/blogpost/sample/"), "hello") / dist[0m
+[0m[[0m[0minfo[0m] [0m[0mDefined at:[0m
+[0m[[0m[0minfo[0m] [0m[0m	(com.typesafe.sbt.packager.universal.UniversalPlugin.projectSettings) UniversalPlugin.scala:51[0m
+[0m[[0m[0minfo[0m] [0m[0mDependencies:[0m
+[0m[[0m[0minfo[0m] [0m[0m	Universal / dist[0m
+[0m[[0m[0minfo[0m] [0m[0mDelegates:[0m
+[0m[[0m[0minfo[0m] [0m[0m	dist[0m
+[0m[[0m[0minfo[0m] [0m[0m	ThisBuild / dist[0m
+[0m[[0m[0minfo[0m] [0m[0m	Global / dist[0m
+[0m[[0m[0minfo[0m] [0m[0mRelated:[0m
+[0m[[0m[0minfo[0m] [0m[0m	Universal / dist[0m
+[0m[[0m[0minfo[0m] [0m[0m	Universal-src / dist[0m
+[0m[[0m[0minfo[0m] [0m[0m	Universal-docs / dist[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
